@@ -56,7 +56,7 @@ A user account becomes locked after multiple incorrect password attempts, preven
 
 ##  Screenshots
 
-> (Add your screenshots here — examples below)
+
 
 - User account locked in ADUC
 - Account properties showing lockout status
